@@ -11,6 +11,7 @@ import {
   signOut,
   onAuthStateChanged,
 } from 'firebase/auth';
+
 import {
   getFirestore,
   addDoc,
